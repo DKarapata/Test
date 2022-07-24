@@ -5,4 +5,5 @@
 
 Чтобы добавить файлы к коммиту, мы используем:
 > git add filename  
-> git add.
+> git add .  
+> end  
