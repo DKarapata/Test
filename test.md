@@ -7,3 +7,6 @@
 > git add filename  
 > git add .  
 > end  
+
+проверяем команду diff 
+diff 
